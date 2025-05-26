@@ -55,8 +55,10 @@ Conclusion
 The Advanced Encryption Tool represents a modern solution to a fundamental challenge in the digital era—securing data against unauthorized access. With strong encryption algorithms like AES-256, combined with a user-friendly interface and robust functionality, AET strikes the perfect balance between security and usability. Whether for individual use or enterprise deployment, this tool provides peace of mind by keeping sensitive data safe and under control. The deliverable is a reliable, efficient, and scalable encryption application tailored to meet today’s evolving cybersecurity demands.
 
 OUTPUT:
+
 ![Image](https://github.com/user-attachments/assets/71399f8a-540a-40c4-ae65-5f020d8df769)
 
 
 ENCRYPTED DATA:
+
 ![Image](https://github.com/user-attachments/assets/de69f3e4-f39b-4b67-994b-0067cc1153e6)
